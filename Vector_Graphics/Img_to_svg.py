@@ -1,4 +1,4 @@
-# Reads a common image file formate and generates
+# Reads a common image file format (Raster) and generates
 # a corresponding vector graphics format (SVG)
 
 from PIL import Image
