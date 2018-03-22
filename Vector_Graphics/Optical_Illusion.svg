@@ -1,0 +1,16 @@
+<!-- Basic Optical Ilusion in SVG -->
+<!DOCTYPE html>
+<html>
+<body>
+
+<svg height="250" width="500" xmlns="http://www.w3.org/2000/svg">
+  <polygon points="220,10 330,120 220,230 110,120" style="fill:white;stroke:black;stroke-width:2" />
+  	<circle cx="142.5" cy="42.5" r="6" stroke="black" stroke-width="3" fill="black" />
+    <circle cx="142.5" cy="197.5" r="6" stroke="black" stroke-width="3" fill="black" />
+    <circle cx="297.5" cy="42.5" r="6" stroke="black" stroke-width="3" fill="black" />
+    <circle cx="297.5" cy="197.5" r="6" stroke="black" stroke-width="3" fill="black" />
+  		<polygon points="142.5,42.5 142.5,197.5 297.5,197.5 297.5,42.5" style="fill:white;" />
+</svg>
+
+</body>
+</html>
