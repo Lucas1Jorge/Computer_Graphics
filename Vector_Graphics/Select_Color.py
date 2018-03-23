@@ -1,4 +1,5 @@
 # Generates a Panel where you can choose a color by clicking
+# This python3 script generates an SVG. Open the .svg with a browser to see the panel
 
 with open("Select_Color.svg", "w") as file_svg:
     # SVG headers
