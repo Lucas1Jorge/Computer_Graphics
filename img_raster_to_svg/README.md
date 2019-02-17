@@ -8,8 +8,12 @@ Set the scale in line 25. Smaller scale means smaller radius of the vector spher
 
 ↓ scale - definition ↑
 
-Raster:
-<img src="img/rastere.png">
+<br>
 
-svg:
+<b>Raster:</b> <br><br>
+<img src="img/raster.png">
+
+<br>
+
+<b>svg:</b> <br><br>
 <img src="img/svg.png">
